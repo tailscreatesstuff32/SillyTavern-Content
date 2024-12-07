@@ -1,9 +1,9 @@
 [
-    {
-        "id": "SillyTavern-Chess",
-        "type": "extension",
-        "name": "Chess",
-        "description": "Play the game of chess with the LLM.",
-        "url": "https://github.com/SillyTavern/SillyTavern-Chess"
-    }
+  {
+    "id": "SillyTavern-Chess",
+    "type": "extension",
+    "name": "TicTacToe",
+    "description": "Play the game of chess with the LLM.",
+    "url": "https://github.com/SillyTavern/SillyTavern-Chess"
+  }
 ]
