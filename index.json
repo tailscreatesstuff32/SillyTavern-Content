@@ -2,7 +2,7 @@
   {
     "id": "SillyTavern-Chess",
     "type": "extension",
-    "name": "TicTacToe",
+    "name": "Chess",
     "description": "Play the game of TicTacToe with the LLM.",
     "url": "https://github.com/SillyTavern/SillyTavern-Chess"
   }
