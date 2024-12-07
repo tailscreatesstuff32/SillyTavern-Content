@@ -1,6 +1,6 @@
 [
   {
-    "id": "SillyTavern-Chess",
+    "id": "SillyTavern-TicTacToe",
     "type": "extension",
     "name": "TicTacToe",
     "description": "Play the game of TicTacToe with the LLM.",
