@@ -5,5 +5,5 @@
         "name": "Chess",
         "description": "Play the game of chess with the LLM.",
         "url": "https://github.com/SillyTavern/SillyTavern-Chess"
-    },
+    }
 ]
